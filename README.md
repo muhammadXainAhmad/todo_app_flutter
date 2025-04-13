@@ -18,7 +18,7 @@ A simple and elegant To-Do List Flutter app that allows users to add, delete, an
 <img src="screenshots/searchBar.png" width="300"/>
 
 ### **Drawer**
-<img src="screenshots/Drawer.png" width="300"/>
+<img src="screenshots/drawer.png" width="300"/>
 
 ### **Completed Tasks Via Drawer**
 <img src="screenshots/completedTasks.png" width="300"/>
