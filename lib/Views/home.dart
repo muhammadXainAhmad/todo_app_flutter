@@ -121,7 +121,7 @@ class _MyToDoItemState extends State<MyToDoItem> {
                       style: TextStyle(color: txtClr, fontSize: 18),
                     ),
                     const Text(
-                      'f2021266585@umt.edu.pk',
+                      'xain@email.com',
                       style: TextStyle(color: txtClr, fontSize: 16),
                     ),
                     const SizedBox(height: 30),
